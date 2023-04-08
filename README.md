@@ -1,5 +1,5 @@
 # ISRO-B.E._Final_Year_Project 
-Jasna
+Jasna-ISRO
 
 A brief description of what the project does.
 
